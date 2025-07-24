@@ -1,0 +1,8 @@
+fastapi==0.115.0
+uvicorn==0.32.0
+sqlite3
+python-multipart
+SQLAlchemy
+psycopg2-binary
+PyMySQL
+python-dotenv
